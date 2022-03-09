@@ -22,7 +22,7 @@ function setup() {
   angleMode(DEGREES);
 
   //crear el cuerpo base del jugador
-
+  playerBase = Bodies.rectangle(200,350,180,150)
   //crear el cuerpo del jugador
 
 
