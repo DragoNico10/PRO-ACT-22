@@ -34,7 +34,7 @@ function draw() {
   background(backgroundImg);
 
   //mostrar la imagen del jugador utilizando la función image()
-  image(baseimage, playerBase.position.x, playerBse.Position.y, 180, 150)
+  image(baseimage, playerBase.position.x, playerBase.position.y, 180, 150)
   //mostrar la imagen de la base del jugador utilizando la función image()
   image(playerimage, player.position.x, player.position.y, 50, 180)
 
